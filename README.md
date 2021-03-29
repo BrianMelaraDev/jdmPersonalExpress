@@ -3,13 +3,11 @@ This Card-Matching game uses 6 possibilities of 6 JDM cars. To initiate the game
  
 &emsp;
 ![Screenshot](jdmPic.jpg)
-
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Click Here to go to the website!](https://game-of-thronesapi.herokuapp.com/)
 ## How Its Made 
 **Languages used:** Html, CSS, Javascript, Node.js , Express
 # What I Learned
-I learned how to use an API with the server and use user input data to fetch an object from that API. I learned new useful Modules to use in the future. 
+I learned how to deploy one of my projects in the backend using Express in Node.js
 ### My Other Projects 
 Check out some of my other work using the DOM!
-* [project name](link to repo)
-* [project name](link to repo)
+* [Game of Thrones API](https://github.com/BrianMelaraDev/game-of-thrones-api)
+* [My Demo Day!](https://github.com/BrianMelaraDev/demoday)
